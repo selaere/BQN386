@@ -2,7 +2,7 @@ StartChar: Paw
 Encoding: 8757 8757 656
 Width: 600
 GlyphClass: 2
-Flags: WO
+Flags: W
 HStem: -18 173<244.805 355.429> 619 149<112.518 206.836 394.518 488.836>
 VStem: 84 148<645.254 739.318> 214 171<9.61133 123.772> 366 148<645.254 739.318>
 TtInstrs:
@@ -162,4 +162,5 @@ SplineSet
  501 524 501 524 507.5 510.5 c 128,-1,47
  514 497 514 497 514 483 c 0,32,33
 EndSplineSet
+Validated: 8408065
 EndChar

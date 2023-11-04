@@ -2,7 +2,7 @@ StartChar: Rot1st
 Encoding: 8854 8854 670
 Width: 600
 GlyphClass: 2
-Flags: MW
+Flags: MWO
 HStem: 27 76<200.385 398.682> 275 79<91 509> 529 80<189.75 398.984>
 VStem: 10 80<215.146 275 354 425.94> 509 82<214.24 275 354 424.179>
 TtInstrs:
